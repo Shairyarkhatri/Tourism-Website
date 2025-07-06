@@ -250,6 +250,7 @@ header {
     margin-top: 1rem;
     display: grid;
     gap: 2rem 1rem;
+    margin-bottom: 20%
   }
   
   .destination-card {
